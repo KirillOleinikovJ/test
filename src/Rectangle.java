@@ -1,4 +1,4 @@
- class Rectangle implements Schape {
+ class Rectangle extends Schape {
      final private String name="Rectangle";
 
       @Override

@@ -1,4 +1,4 @@
- class Triangle implements Schape {
+ class Triangle extends Schape {
 
     final private String name="Triangle";
 

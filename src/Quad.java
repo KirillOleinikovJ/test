@@ -1,4 +1,4 @@
- class Quad implements Schape {
+ class Quad extends Schape {
     final private String name="Quad";
 
     @Override

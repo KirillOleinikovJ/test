@@ -1,3 +1,3 @@
-public interface Schape {
-    public String  getname();
+abstract class Schape {
+    abstract String  getname();
 }

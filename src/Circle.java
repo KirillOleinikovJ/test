@@ -1,4 +1,4 @@
- class Circle implements Schape {
+ class Circle extends Schape {
     final private String name="Circle";
     @Override
     public String getname() {
