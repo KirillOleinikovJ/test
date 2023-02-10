@@ -2,7 +2,7 @@
      final private String name="Rectangle";
 
       @Override
-      public String getname() {
+      public String getName() {
            return name;
       }
      }

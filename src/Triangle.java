@@ -3,7 +3,7 @@
     final private String name="Triangle";
 
     @Override
-    public String getname() {
+    public String getName() {
         return name;
     }
 }

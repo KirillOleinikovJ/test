@@ -2,7 +2,7 @@
     final private String name="Pentagon";
 
     @Override
-    public String getname() {
+    public String getName() {
         return name;
     }
 }

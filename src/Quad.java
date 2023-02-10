@@ -2,7 +2,7 @@
     final private String name="Quad";
 
     @Override
-    public String getname() {
+    public String getName() {
         return name;
     }
 

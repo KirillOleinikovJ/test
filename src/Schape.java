@@ -1,3 +1,3 @@
 abstract class Schape {
-    abstract String  getname();
+    abstract String  getName();
 }
